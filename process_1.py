@@ -4,7 +4,7 @@
 import json
 
 # Load the JSON file
-file_path = "cleanData.json"
+file_path = "cleanData2.json"
 
 with open(file_path, "r") as file:
     data = json.load(file)

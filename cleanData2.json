@@ -1,0 +1,1202 @@
+[
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "52",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "47",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6.3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "44",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "20",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "40",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "43",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "32",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "42",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "19",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "50",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "11",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "20",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "1",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "38",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "36",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "40",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "34",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "29",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "5",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "22",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "58",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "57",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "12",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "39",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5.3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "42",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "20",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "0",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "26",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "9",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "21",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "57",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "27",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "53",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "11",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "6"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "25",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "20",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "5",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "32",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "21",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "50",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "39",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "28",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "58",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "54",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "47",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "34",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "9",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "67",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "4",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "4",
+        "How often do you exercise per week? (e.g., 0-7) ": "4"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "17",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "22",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "31",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "30",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "24",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "53",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "43",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2130",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5.3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "54",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "21",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "32",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "32",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "24",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "4",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "9",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "58",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "44",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "25",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "39",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "11",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "18",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "36",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "4"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "66",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "4",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "4",
+        "How often do you exercise per week? (e.g., 0-7) ": "4"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "27",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "13",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "9",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "30",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "9",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "53",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "28",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "11",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "17",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "38",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "34",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "30",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "11",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "18",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "7"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "43",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "52",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "54",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "54",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "4",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "5",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "23",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "11",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "58",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "18",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "27",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "21",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "21",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "4",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "32",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "10",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "9",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "54",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "33",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "9",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "11",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "30",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "11",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "44",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "40",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "7",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "14",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "22",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "28",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "46",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "20",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "6",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "12",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "35",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "4"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "21",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "40",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "30",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "39",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "21",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "3",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "9",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "45",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "8",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "15",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "20",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "43",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "55",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "56",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "56",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "11",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "32",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "21",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "39",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "29",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "10",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "32",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "39",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "54",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7.5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "9",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4.3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "54",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "6",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "15",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "54",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5.3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "57",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "20",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "10",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "52",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "10",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "4"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8.3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "26",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6.15",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "31",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "29",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "24",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "42",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "21",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "27",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "42",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "24",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "22",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "10",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "20",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "3",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "11",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "9",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "21",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "5",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "4",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "4"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "18",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "9",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "9.3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "34",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "22",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "24",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "20",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "8",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "15",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "4",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "28",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "32",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "16",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "9",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "20",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "45",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "0",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "41",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "3",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "14",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "17",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "28",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "10",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "5"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "20",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "10",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "11",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "19",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "9",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "22",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "12",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "22",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "5",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "12.3",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "21",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "9",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "20",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "10",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "25",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "12",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "28",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "3",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "10",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "22",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "6",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "2",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "0",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "25",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "1",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "8",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "3"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "30",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "21",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "24",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "3",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "10",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "0"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "21",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "21",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "5",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "2",
+        "How often do you exercise per week? (e.g., 0-7) ": "2"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "27",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "8",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "22",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "6",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "3",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    },
+    {
+        "What is your age? (Input in years,  e.g. 19 for 19y/o)": "20",
+        "  On average, how many hours do you sleep per night? (input number only, e.g., 8 for 8 hours )   ": "7",
+        "  What time do you usually go to bed? (Military time, e.g., 22 for 10 PM)  ": "23",
+        "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ": "7",
+        "How many times do you wake up during the night?  (e.g., number from 0-5) ": "1",
+        "How often do you exercise per week? (e.g., 0-7) ": "1"
+    }
+]

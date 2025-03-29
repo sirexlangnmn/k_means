@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.cluster import KMeans
 import json
 
-with open('cleanData.json', 'r') as file:
+with open('cleanData2.json', 'r') as file:
     data = json.load(file)  # Correct way to load JSON from a file
 
 # Extract relevant numerical features
@@ -19,9 +19,14 @@ with open('cleanData.json', 'r') as file:
 #     "How often do you use electronic devices (phone, TV, computer) before sleep?"
 # ]
 
+# selected_features = [
+#     "How would you describe your sleeping environment?",
+#     "How comfortable is your usual sleeping position?",
+# ]
+
 selected_features = [
-    "How would you describe your sleeping environment?",
-    "How comfortable is your usual sleeping position?",
+    "What is your age? (Input in years,  e.g. 19 for 19y/o)",
+    "  What time do you usually wake up? (Military time, e.g., 6 for 6 AM)  ",
 ]
 
 # Convert data to a DataFrame
